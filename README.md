@@ -1,4 +1,4 @@
 # Leetcode_Solution
-# Coding and Algorithm Learning 
+# Coding and Algorithm Learning in python
 
-https://github.com/Kumar2Gaurav/Leetcode_Solution/blob/master/Medium/dp/Jump%20Game.py
+[jump Game](medium/dp/jump_game.md) and [Jump game py](medium/dp/jump_game.py)
