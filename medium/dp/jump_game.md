@@ -16,3 +16,16 @@ Constraints:
 1 <= nums.length <= 104
 0 <= nums[i] <= 105
 
+
+
+``1. Start with last index.``
+
+``2. if previous element able to reach at last index then my next target will be my previous index.``
+``
+
+``3. first set goal at last index then keep accumlating till first index.``
+
+``4. if we reach at first index then our goal is complete.``
+
+``done``
+
